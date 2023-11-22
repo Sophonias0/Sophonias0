@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sophonias / @Sophonias0
-- 👀 I’m interested in Website Development and App development
+  JavaScript Programmer
 
 
 <!---
